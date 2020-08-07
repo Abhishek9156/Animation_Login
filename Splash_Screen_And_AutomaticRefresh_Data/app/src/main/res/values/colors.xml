@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4B6D33</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="Water">#236D08</color>
+    <color name="NotWater">#EB6B43</color>
+    <color name="Background">#5F533F</color>
+
+    <!-- Edit your theme color here -->
+
+
+    <color name="colorPrimarySplash">#00C853</color>
+    <color name="colorPrimaryDarkSplash">#00993F</color>
+    <color name="colorAccentSplash">#E65100</color>
+
+</resources>

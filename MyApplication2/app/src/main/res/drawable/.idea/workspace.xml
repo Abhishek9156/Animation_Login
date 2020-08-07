@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5ae9f06-8214-49aa-b480-637c8f4bde37" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../release/app-release.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../release/app-release.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/rannlab/smtraders/ChangePassPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/rannlab/smtraders/ChangePassPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/rannlab/smtraders/ChangePasswordActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/rannlab/smtraders/ChangePasswordActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/rannlab/smtraders/ForgotPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/rannlab/smtraders/ForgotPassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/rannlab/smtraders/LogIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/rannlab/smtraders/LogIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/rannlab/smtraders/OtpActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/rannlab/smtraders/OtpActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/rannlab/smtraders/SplashScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/rannlab/smtraders/SplashScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/rannlab/smtraders/ui/home/HomeFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/rannlab/smtraders/ui/home/HomeFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/rannlab/smtraders/ui/send/RecyclerDateAdaptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/rannlab/smtraders/ui/send/RecyclerDateAdaptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/rannlab/smtraders/ui/send/SendFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/rannlab/smtraders/ui/send/SendFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/rannlab/smtraders/ui/share/ShareFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/rannlab/smtraders/ui/share/ShareFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/rannlab/smtraders/ui/share/SpinnerData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/rannlab/smtraders/ui/share/SpinnerData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/rannlab/smtraders/ui/slideshow/RecyclerProductAdaptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/rannlab/smtraders/ui/slideshow/RecyclerProductAdaptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/rannlab/smtraders/ui/tools/ToolsFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/rannlab/smtraders/ui/tools/ToolsFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout-mdpi/activity_change_password.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout-mdpi/activity_log_in.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout-mdpi/activity_otp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout-xhdpi/activity_otp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout-xhdpi/activity_otp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout-xhdpi/datadaptorrecycler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout-xhdpi/datadaptorrecycler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout-xhdpi/fragment_share.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout-xhdpi/fragment_share.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout-xhdpi/productrecycledesign.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout-xhdpi/productrecycledesign.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout-xxhdpi/activity_otp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout-xxhdpi/activity_otp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout-xxhdpi/datadaptorrecycler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout-xxhdpi/datadaptorrecycler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout-xxxhdpi/activity_otp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout-xxxhdpi/activity_otp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/activity_change_password.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout/activity_change_password.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/activity_forgot_password.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout/activity_forgot_password.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/activity_log_in.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout/activity_log_in.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/activity_otp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout/activity_otp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/datadaptorrecycler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout/datadaptorrecycler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/fragment_share.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout/fragment_share.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/fragment_slideshow.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout/fragment_slideshow.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/productrecycledesign.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout/productrecycledesign.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/recyclerdesign.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout/recyclerdesign.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="697" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="drawable" type="1abcf292:AndroidViewProjectNode" />
+              <item name="drawable" type="e9137016:NonAndroidModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="E:/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5ae9f06-8214-49aa-b480-637c8f4bde37" name="Default Changelist" comment="" />
+      <created>1584190101578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584190101578</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.3290469" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
