@@ -58,6 +58,8 @@ public class ForgotPassword extends AppCompatActivity {
     }
 
     private void fetchData() {
+       // progressDialog.setMessage("Please Wait");
+        //progressDialog.show();
 
         String pass1=pass.getText().toString();
         String match=conpass.getText().toString();
@@ -79,7 +81,7 @@ public class ForgotPassword extends AppCompatActivity {
             JsonObjectRequest jsonObjectRequestn = new JsonObjectRequest(Request.Method.POST, url, new JSONObject(map), new Response.Listener<JSONObject>() {
                 @Override
                 public void onResponse(JSONObject response) {
-                    //   progressDialog.dismiss();
+          //             progressDialog.dismiss();
                     try {
                         String s1 = response.getString("msg");
                         if (s1.equals("Updation successfull")) {
@@ -96,7 +98,7 @@ public class ForgotPassword extends AppCompatActivity {
             }, new Response.ErrorListener() {
                 @Override
                 public void onErrorResponse(VolleyError error) {
-
+                    progressDialog.dismiss();
                 }
             });
             jsonObjectRequestn.setRetryPolicy(new DefaultRetryPolicy(500000,
